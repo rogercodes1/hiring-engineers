@@ -6,3 +6,4 @@ statsd = Statsd.new('localhost', 8125)
 
 # Increment a counter.
 statsd.increment('rubyapp.pages.views')
+puts "heyyYyYYYYYYY"
